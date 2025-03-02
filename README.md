@@ -7,13 +7,13 @@ Automation Script is based on Selenium Webdriverand it is web application.
 - Dependency Management with Maven/Gradle  
 - Support of Headless Execution
 
-  ## 🛠 Tech Stack
+## 🛠 Tech Stack
 - Programming Language: Java  
 - Automation Framework: Selenium WebDriver  
 - Build Tool: Maven / Gradle  
 - Test Framework: TestNG / JUnit
 
-  ## ⚙ Installation & Setup
+## ⚙ Installation & Setup
   GitHub से Repository Clone 
   git clone https://github.com/Vaishnu7798/AutomationScript.git
 
